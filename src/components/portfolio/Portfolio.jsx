@@ -42,9 +42,9 @@ const Portfolio = () => {
       id: 5,
       image: IMG5,
       title:
-        "Admin Dashboard Using React.js, Material UI, Nevo And fullCalendar",
-      github: "https://github.com/abhideepghosh/admin-dashboard",
-      demo: "https://teslaadmindashboard.netlify.app/",
+        "Fitness Club Website - Using JavaScript",
+      github: "https://github.com/Swati-Malvi/Fitness.github.io",
+      demo: "https://fitness-club1.netlify.app ",
     },
     {
       id: 6,
