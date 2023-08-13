@@ -27,7 +27,7 @@ const About = () => {
             <article className="about__card">
               <GiTrophyCup className="about__icon" />
               <h5>Top Performer</h5>
-              <small>Consistently Ranked 1 In Newton Leaderboard</small>
+              <small>Consistently Top 10 Ranked In Newton Leaderboard</small>
             </article>
 
             <article className="about__card">
