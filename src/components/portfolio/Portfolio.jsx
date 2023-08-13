@@ -12,9 +12,9 @@ const Portfolio = () => {
     {
       id: 1,
       image: IMG6,
-      title: "CyberNotes - Note App For Cyberpunk Fans (MERN) ",
-      github: "https://github.com/abhideepghosh/CyberNotes",
-      demo: "https://cyber-notes.netlify.app/",
+      title: "Lightverse dictionary - Using JavaScript",
+      github: "https://github.com/Swati-Malvi/lightverse-dictionary",
+      demo: "https://lightverse-dic.netlify.app",
     },
 
     {
