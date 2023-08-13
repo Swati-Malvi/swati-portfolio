@@ -41,8 +41,7 @@ const Portfolio = () => {
     {
       id: 5,
       image: IMG5,
-      title:
-        "Fitness Club Website - Using JavaScript",
+      title: "Fitness Club Website - Using JavaScript",
       github: "https://github.com/Swati-Malvi/Fitness.github.io",
       demo: "https://fitness-club1.netlify.app ",
     },
