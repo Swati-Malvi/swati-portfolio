@@ -27,9 +27,9 @@ const Portfolio = () => {
     {
       id: 3,
       image: IMG3,
-      title: "AI Code Wizard - Using JavaScript and Express.js",
-      github: "https://github.com/abhideepghosh/open-ai-js",
-      demo: "https://aicodewizard.vercel.app/",
+      title: "AI Based Summary Generator - using React.js",
+      github: "https://github.com/Swati-Malvi/AI-Based1-Summary-Generator",
+      demo: "https://sum-it-up-ai-master.vercel.app/",
     },
     {
       id: 4,
